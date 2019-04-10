@@ -1,0 +1,101 @@
+Rk,Year,Lg,Rd,Pk,Tm,Player,Pos,Born,College,From?,To,G,MP,PTS,TRB,AST,STL,BLK,FG%,2P%,3P%,FT%,WS,WS/48
+1,2014,NBA,1,8,SAC,Nik Stauskas,G,ca,University of Michigan,2015,2019,332,20,6.8,2.1,1.5,0.4,0.2,0.389,0.438,0.353,0.815,3.9,0.028
+2,2014,NBA,2,40,MIN,Glenn Robinson III,G-F,us,University of Michigan,2015,2019,216,14.4,4.4,2.1,0.6,0.4,0.2,0.439,0.479,0.361,0.729,4.6,0.072
+3,2014,NBA,1,24,CHH,Shabazz Napier,G,us,University of Connecticut,2015,2019,288,16,6.4,1.7,2,0.8,0.1,0.393,0.43,0.352,0.812,6.2,0.065
+4,2014,NBA,1,13,MIN,Zach LaVine,G,us,University of California Los Angeles,2015,2019,293,29.9,16.1,3.4,3.5,0.8,0.2,0.446,0.481,0.373,0.824,8.1,0.044
+5,2014,NBA,1,9,CHH,Noah Vonleh,F,us,Indiana University,2015,2019,299,17.7,5.1,5.4,0.8,0.4,0.4,0.453,0.491,0.316,0.683,8.3,0.075
+6,2014,NBA,2,33,CLE,Joe Harris,G,us,University of Virginia,2015,2019,260,22.5,9.3,2.8,1.5,0.4,0.2,0.476,0.542,0.426,0.799,10.3,0.084
+7,2014,NBA,1,11,DEN,Doug McDermott,F,us,Creighton University,2015,2019,338,19.9,7.8,2.1,0.8,0.2,0.1,0.46,0.502,0.403,0.824,10.5,0.075
+8,2014,NBA,2,46,WAS,Jordan Clarkson,G,us,University of Missouri,2015,2019,378,27.6,14.7,3.3,2.7,0.9,0.1,0.445,0.496,0.335,0.815,10.7,0.049
+9,2014,NBA,1,2,MIL,Jabari Parker,F,us,Duke University,2015,2019,247,29.7,15.1,5.7,2.1,0.9,0.4,0.491,0.521,0.337,0.739,11.7,0.076
+10,2014,NBA,1,1,CLE,Andrew Wiggins,F-G,ca,University of Kansas,2015,2019,396,36,19.4,4.3,2.2,1,0.6,0.439,0.466,0.33,0.736,12.9,0.043
+11,2014,NBA,1,14,PHO,T.J. Warren,F,us,North Carolina State University,2015,2019,261,27.7,14.4,4.1,1.1,0.9,0.5,0.497,0.524,0.34,0.766,13,0.086
+12,2014,NBA,1,10,PHI,Elfrid Payton,G,us,University of Louisiana at Lafayette,2015,2019,339,29.5,11.1,4.3,6.5,1.3,0.3,0.454,0.478,0.3,0.629,13.1,0.063
+13,2014,NBA,2,38,DET,Spencer Dinwiddie,G,us,University of Colorado,2015,2019,250,24.4,11,2.6,4.5,0.7,0.3,0.408,0.475,0.324,0.799,13.3,0.105
+14,2014,NBA,1,30,SAS,Kyle Anderson,F-G,us,University of California Los Angeles,2015,2019,300,19.6,5.3,3.9,1.9,1,0.5,0.492,0.519,0.324,0.706,15.4,0.125
+15,2014,NBA,1,19,CHI,Gary Harris,G,us,Michigan State University,2015,2019,308,28.5,12.4,2.6,2.1,1.2,0.2,0.46,0.525,0.367,0.803,15.9,0.087
+16,2014,NBA,1,23,UTA,Rodney Hood,G-F,us,Duke University,2015,2019,317,27.2,12.6,2.8,1.9,0.8,0.2,0.422,0.464,0.367,0.842,16,0.089
+17,2014,NBA,1,6,BOS,Marcus Smart,G,us,Oklahoma State University,2015,2019,339,28.4,9.3,3.5,3.9,1.5,0.4,0.373,0.436,0.311,0.763,16.2,0.08
+18,2014,NBA,1,16,CHI,Jusuf Nurkic,C,ba,,2015,2019,310,22.9,11.6,8,1.9,0.8,1.3,0.491,0.498,0.071,0.666,16.5,0.111
+19,2014,NBA,2,39,PHI,Jerami Grant,F,us,Syracuse University,2015,2019,379,24,8.7,3.9,1,0.6,1.2,0.46,0.521,0.33,0.654,17.8,0.094
+20,2014,NBA,1,7,LAL,Julius Randle,F-C,us,University of Kentucky,2015,2019,310,28.4,15.3,8.8,2.7,0.6,0.5,0.502,0.522,0.309,0.724,17.8,0.097
+21,2014,NBA,1,4,ORL,Aaron Gordon,F,us,University of Arizona,2015,2019,338,27.8,12.4,6.2,2.1,0.8,0.6,0.449,0.51,0.321,0.705,17.8,0.091
+22,2014,NBA,2,45,CHH,Dwight Powell,F-C,ca,Stanford University,2015,2019,328,17.7,7.5,4.4,0.9,0.7,0.5,0.553,0.611,0.301,0.75,22.1,0.182
+23,2014,NBA,1,25,HOU,Clint Capela,C,ch,,2015,2019,292,25,11.9,9.1,0.9,0.7,1.4,0.633,0.634,0,0.523,30.7,0.202
+24,2015,NBA,1,25,MEM,Jarell Martin,F,us,Louisiana State University,2016,2019,181,16,5.5,3.5,0.6,0.4,0.4,0.435,0.455,0.356,0.766,3.2,0.053
+25,2015,NBA,1,8,DET,Stanley Johnson,F,us,University of Arizona,2016,2019,285,21.6,7,3.4,1.5,0.9,0.2,0.374,0.43,0.293,0.764,3.3,0.026
+26,2015,NBA,1,21,DAL,Justin Anderson,G,us,University of Virginia,2016,2019,213,13.1,5.3,2.6,0.7,0.4,0.3,0.421,0.526,0.3,0.773,4.6,0.079
+27,2015,NBA,1,3,PHI,Jahlil Okafor,C-F,us,Duke University,2016,2019,187,20.9,11.3,5.1,0.9,0.3,0.9,0.528,0.531,0.154,0.678,5,0.062
+28,2015,NBA,1,18,HOU,Sam Dekker,F,us,University of Wisconsin,2016,2019,197,15.4,5.5,3,0.8,0.5,0.2,0.484,0.577,0.289,0.606,5.5,0.087
+29,2015,NBA,1,2,LAL,D'Angelo Russell,G,us,Ohio State University,2016,2019,269,28.5,16.5,3.7,5.1,1.2,0.2,0.417,0.464,0.351,0.761,5.9,0.037
+30,2015,NBA,2,41,BRK,Pat Connaughton,G,us,University of Notre Dame,2016,2019,212,14.6,4.5,2.3,1.1,0.3,0.2,0.436,0.538,0.349,0.8,6.5,0.1
+31,2015,NBA,2,46,MIL,Norman Powell,G,us,University of California Los Angeles,2016,2019,252,16.8,7,2.1,1.2,0.6,0.2,0.44,0.51,0.339,0.806,7.1,0.08
+32,2015,NBA,1,10,MIA,Justise Winslow,F,us,Duke University,2016,2019,226,28.2,8.9,5.3,2.6,0.9,0.4,0.419,0.448,0.344,0.645,7.7,0.058
+33,2015,NBA,1,24,CLE,Tyus Jones,G,us,Duke University,2016,2019,243,17.5,5,1.5,3.2,1,0.1,0.418,0.461,0.339,0.816,8.1,0.091
+34,2015,NBA,1,12,UTA,Trey Lyles,F,ca,University of Kentucky,2016,2019,287,17.5,7.6,3.9,1.1,0.4,0.3,0.43,0.494,0.33,0.706,8.1,0.077
+35,2015,NBA,1,19,WAS,Jerian Grant,G,us,University of Notre Dame,2016,2019,272,18.1,6.1,1.9,2.9,0.8,0.1,0.411,0.465,0.322,0.771,8.2,0.08
+36,2015,NBA,1,15,ATL,Kelly Oubre,F,us,University of Kansas,2016,2019,292,22.1,9.4,3.7,0.8,0.8,0.4,0.424,0.5,0.321,0.778,8.4,0.063
+37,2015,NBA,1,22,CHI,Bobby Portis,F,us,University of Arkansas,2016,2019,246,20.2,10.2,6.1,1.1,0.5,0.3,0.459,0.491,0.361,0.748,8.9,0.086
+38,2015,NBA,1,23,POR,Rondae Hollis-Jefferson,F,us,University of Arizona,2016,2019,233,23.6,9.9,5.8,2,1,0.6,0.446,0.47,0.225,0.739,9.1,0.08
+39,2015,NBA,1,20,TOR,Delon Wright,G,us,University of Utah,2016,2019,194,18.8,7.1,2.6,2.6,1,0.4,0.444,0.493,0.332,0.792,9.7,0.128
+40,2015,NBA,1,16,BOS,Terry Rozier,G,us,University of Louisville,2016,2019,269,20,7.7,3.6,2.3,0.7,0.2,0.379,0.402,0.353,0.778,9.8,0.087
+41,2015,NBA,1,30,GSW,Kevon Looney,F-C,us,University of California Los Angeles,2016,2019,199,14,4.4,3.8,0.9,0.5,0.6,0.593,0.611,0.192,0.593,9.9,0.169
+42,2015,NBA,1,13,PHO,Devin Booker,G,us,University of Kentucky,2016,2019,272,32.9,21.4,3.5,4.2,0.8,0.3,0.437,0.477,0.354,0.854,10,0.054
+43,2015,NBA,1,9,CHO,Frank Kaminsky,F-C,us,University of Wisconsin,2016,2019,278,22.1,9.7,3.9,1.6,0.5,0.4,0.418,0.466,0.349,0.759,10.7,0.083
+44,2015,NBA,1,4,NYK,Kristaps Porzingis,F-C,lv,,2016,2018,186,31,17.8,7.1,1.3,0.7,2,0.437,0.467,0.361,0.804,12.1,0.1
+45,2015,NBA,2,37,PHI,Richaun Holmes,F-C,us,Bowling Green State University,2016,2019,226,16.9,7.7,4.4,0.9,0.5,0.9,0.565,0.608,0.257,0.706,12.4,0.156
+46,2015,NBA,2,40,MIA,Josh Richardson,G,us,University of Tennessee,2016,2019,259,30.7,12.1,3.2,2.9,1.1,0.7,0.425,0.467,0.368,0.821,15.7,0.095
+47,2015,NBA,1,27,LAL,Larry Nance Jr.,F-C,us,University of Wyoming,2016,2019,255,22.7,7.7,6.4,1.6,1.2,0.5,0.54,0.567,0.293,0.695,16,0.133
+48,2015,NBA,1,6,SAC,Willie Cauley-Stein,F-C,us,University of Kentucky,2016,2019,292,24,10.1,6.4,1.6,0.9,0.8,0.533,0.535,0.222,0.61,17.1,0.117
+49,2015,NBA,2,32,HOU,Montrezl Harrell,F-C,us,University of Louisville,2016,2019,252,19.1,11.2,4.4,1.2,0.5,0.8,0.63,0.638,0.156,0.629,19,0.19
+50,2015,NBA,1,11,IND,Myles Turner,C-F,us,University of Texas at Austin,2016,2019,278,28.1,12.9,6.7,1.3,0.7,2.1,0.494,0.522,0.358,0.771,22,0.135
+51,2014,NBA,2,41,DEN,Nikola Jokic,C-F,rs,,2016,2019,305,28.3,16.2,9.6,5.2,1.1,0.7,0.524,0.571,0.348,0.83,38.7,0.215
+52,2015,NBA,1,1,MIN,Karl-Anthony Towns,C-F,us,University of Kentucky,2016,2019,321,34.4,22.2,11.9,2.6,0.8,1.5,0.536,0.572,0.392,0.835,45.4,0.197
+53,2015,NBA,2,44,PHO,Andrew Harrison,G,us,University of Kentucky,2017,2019,145,20.6,7,2,2.8,0.7,0.3,0.373,0.422,0.294,0.779,3.2,0.051
+54,2016,NBA,2,31,BOS,Deyonta Davis,C-F,us,Michigan State University,2017,2019,104,12.2,4.2,3.2,0.4,0.2,0.6,0.593,0.595,0,0.646,3.4,0.129
+55,2016,NBA,1,2,LAL,Brandon Ingram,F,us,Duke University,2017,2019,190,31.7,13.9,4.7,2.9,0.6,0.6,0.458,0.485,0.329,0.662,4.5,0.036
+56,2016,NBA,1,12,UTA,Taurean Prince,F,us,Baylor University,2017,2019,193,25.4,11.3,3.8,2,0.9,0.5,0.428,0.471,0.379,0.829,4.6,0.045
+57,2016,NBA,2,33,LAC,Cheick Diallo,F,ml,University of Kansas,2017,2019,130,12.3,5.4,4.5,0.4,0.3,0.5,0.58,0.583,0,0.747,4.7,0.141
+58,2016,NBA,1,19,DEN,Malik Beasley,G,us,Florida State University,2017,2019,161,15.8,7.1,1.8,0.8,0.4,0.1,0.459,0.538,0.387,0.806,4.8,0.091
+59,2016,NBA,1,10,MIL,Thon Maker,F-C,ss,,2017,2019,191,14.2,4.7,2.8,0.6,0.4,0.7,0.424,0.494,0.331,0.676,4.8,0.085
+60,2016,NBA,2,32,LAL,Ivica Zubac,C,ba,,2017,2019,137,14.5,6.8,4.5,0.8,0.3,0.7,0.538,0.541,0,0.758,5.1,0.123
+61,2016,NBA,1,15,DEN,Juan Hernangomez,F,es,,2017,2019,155,15.8,5.1,3.2,0.6,0.4,0.3,0.437,0.528,0.365,0.764,5.1,0.1
+62,2016,NBA,1,20,IND,Caris LeVert,G-F,us,University of Michigan,2017,2019,165,24.8,11,3.6,3.4,1,0.3,0.433,0.495,0.326,0.709,5.3,0.062
+63,2015,NBA,2,35,PHI,Willy Hernangomez,C,es,,2017,2019,176,14.9,7.1,5.6,1.1,0.4,0.4,0.532,0.544,0.369,0.696,7.8,0.143
+64,2016,NBA,1,3,BOS,Jaylen Brown,F-G,us,University of California,2017,2019,220,24.4,11.2,4,1.3,0.8,0.3,0.462,0.515,0.365,0.66,8.9,0.08
+65,2016,NBA,1,6,NOP,Buddy Hield,G,bs,University of Oklahoma,2017,2019,240,26.8,14.9,4.1,2,0.7,0.3,0.446,0.47,0.419,0.874,9.9,0.074
+66,2014,NBA,1,12,ORL,Dario Saric,F,hr,,2017,2019,236,26.9,12.6,6.2,2.1,0.6,0.2,0.432,0.486,0.358,0.832,10.8,0.082
+67,2016,NBA,1,7,DEN,Jamal Murray,G,ca,University of Kentucky,2017,2019,235,28.4,14.8,3.5,3.4,0.8,0.3,0.434,0.483,0.36,0.882,11.7,0.084
+68,2016,NBA,1,9,TOR,Jakob Poeltl,C,at,University of Utah,2017,2019,210,16,5.4,4.5,0.7,0.4,0.9,0.64,0.64,0.5,0.56,11.9,0.171
+69,2016,NBA,1,11,ORL,Domantas Sabonis,F-C,us,Gonzaga University,2017,2019,227,23,10.4,6.7,1.9,0.6,0.4,0.512,0.534,0.343,0.722,13,0.119
+70,2016,NBA,2,36,MIL,Malcolm Brogdon,G,us,University of Virginia,2017,2019,187,28.1,12.8,3.5,3.6,0.9,0.2,0.484,0.519,0.408,0.895,13.5,0.123
+71,2016,NBA,1,27,TOR,Pascal Siakam,F,cm,New Mexico State University,2017,2019,213,23.5,10,5.1,2,0.8,0.7,0.529,0.59,0.3,0.741,15.2,0.145
+72,2014,NBA,1,3,PHI,Joel Embiid,C,cm,University of Kansas,2017,2019,156,30.7,24.2,11.4,3.1,0.7,1.9,0.481,0.526,0.316,0.791,16.6,0.167
+73,2017,NBA,1,15,POR,Justin Jackson,G-F,us,University of North Carolina,2018,2019,145,20.8,6.7,2.7,1.1,0.4,0.2,0.439,0.541,0.327,0.757,3.5,0.055
+74,2017,NBA,1,10,SAC,Zach Collins,C-F,us,Gonzaga University,2018,2019,139,16.8,5.6,3.8,0.9,0.3,0.7,0.44,0.503,0.319,0.72,3.5,0.072
+75,2017,NBA,1,2,LAL,Lonzo Ball,G,us,University of California Los Angeles,2018,2019,99,32.4,10,6.2,6.4,1.6,0.6,0.38,0.449,0.315,0.437,3.5,0.052
+76,2017,NBA,1,29,SAS,Derrick White,G,us,University of Colorado,2018,2019,81,22.1,8.5,3.2,3.2,0.9,0.6,0.477,0.521,0.36,0.755,3.8,0.102
+77,2017,NBA,1,21,OKC,Terrance Ferguson,G-F,us,,2018,2019,131,19.7,5.1,1.3,0.6,0.5,0.2,0.418,0.56,0.352,0.759,3.8,0.07
+78,2017,NBA,1,6,ORL,Jonathan Isaac,F,us,Florida State University,2018,2019,100,24.9,8.4,5,1,0.9,1.3,0.416,0.481,0.322,0.806,3.9,0.076
+79,2017,NBA,2,38,CHI,Jordan Bell,F,us,University of Oregon,2018,2019,120,12.7,3.8,3.1,1.4,0.5,0.9,0.568,0.578,0,0.642,4.3,0.135
+80,2017,NBA,1,5,SAC,De'Aaron Fox,G,us,University of Kentucky,2018,2019,150,29.9,14.5,3.3,5.9,1.3,0.4,0.436,0.459,0.344,0.724,4.6,0.05
+81,2017,NBA,1,12,DET,Luke Kennard,G,us,Duke University,2018,2019,132,21.3,8.5,2.6,1.7,0.5,0.2,0.439,0.472,0.401,0.841,4.9,0.083
+82,2017,NBA,1,23,TOR,OG Anunoby,F,gb,Indiana University,2018,2019,138,20.2,6.5,2.7,0.7,0.7,0.3,0.463,0.587,0.355,0.598,5,0.086
+83,2017,NBA,2,42,UTA,Thomas Bryant,C,us,Indiana University,2018,2019,84,17.8,8.7,5.4,1.1,0.3,0.8,0.598,0.674,0.304,0.77,5.3,0.17
+84,2017,NBA,1,30,UTA,Josh Hart,G,us,Villanova University,2018,2019,130,24.4,7.9,3.9,1.3,0.9,0.4,0.435,0.53,0.361,0.695,5.5,0.082
+85,2014,NBA,1,27,PHO,Bogdan Bogdanovic,G,rs,,2018,2019,144,27.9,12.8,3.1,3.6,1,0.2,0.431,0.473,0.374,0.833,5.5,0.066
+86,2017,NBA,2,51,DEN,Monte Morris,G,us,Iowa State University,2018,2019,81,23.5,10.1,2.3,3.6,0.9,0,0.493,0.532,0.413,0.797,6,0.152
+87,2017,NBA,1,7,MIN,Lauri Markkanen,F-C,fi,University of Arizona,2018,2019,120,30.9,16.7,8.2,1.3,0.6,0.6,0.432,0.488,0.362,0.859,6.1,0.079
+88,2017,NBA,1,27,BRK,Kyle Kuzma,F,us,University of Utah,2018,2019,147,32.1,17.3,5.9,2.2,0.6,0.4,0.453,0.533,0.335,0.731,6.9,0.07
+89,2017,NBA,1,13,DEN,Donovan Mitchell,G,us,University of Louisville,2018,2019,153,33.5,21.9,3.9,3.9,1.4,0.4,0.434,0.484,0.349,0.803,9.7,0.091
+90,2017,NBA,1,14,MIA,Bam Adebayo,C-F,us,University of Kentucky,2018,2019,147,21.6,7.9,6.4,1.9,0.7,0.7,0.548,0.56,0.1,0.729,10.7,0.162
+91,2017,NBA,1,19,ATL,John Collins,F,us,Wake Forest University,2018,2019,133,26.6,14.5,8.3,1.6,0.5,0.9,0.568,0.605,0.354,0.743,11.4,0.154
+92,2017,NBA,1,22,BRK,Jarrett Allen,C-F,us,University of Texas at Austin,2018,2019,149,23.3,9.6,6.9,1.1,0.5,1.4,0.59,0.617,0.186,0.732,11.6,0.161
+93,2017,NBA,1,3,BOS,Jayson Tatum,F,us,Duke University,2018,2019,157,30.9,14.9,5.5,1.9,1,0.7,0.462,0.487,0.401,0.84,12,0.118
+94,2016,NBA,1,1,PHI,Ben Simmons,G-F,au,Louisiana State University,2018,2019,157,34.1,16.4,8.6,8,1.6,0.8,0.553,0.558,0,0.583,17.3,0.155
+95,2018,NBA,1,4,MEM,Jaren Jackson,F,us,Michigan State University,2019,2019,58,26.1,13.8,4.7,1.1,0.9,1.4,0.506,0.553,0.359,0.766,3.3,0.106
+96,2018,NBA,1,26,PHI,Landry Shamet,G,us,Wichita State University,2019,2019,76,22.7,9.1,1.7,1.4,0.5,0.1,0.431,0.461,0.418,0.828,3.5,0.097
+97,2018,NBA,1,2,SAC,Marvin Bagley,F,us,Duke University,2019,2019,58,25.1,14.8,7.4,1,0.6,1,0.513,0.544,0.31,0.696,3.6,0.12
+98,2018,NBA,1,3,ATL,Luka Doncic,G-F,si,,2019,2019,71,32.2,21.2,7.7,5.9,1,0.4,0.427,0.504,0.326,0.711,4.8,0.1
+99,2018,NBA,2,36,NYK,Mitchell Robinson,C,us,,2019,2019,62,20,7.1,6.2,0.6,0.8,2.5,0.69,0.69,,0.589,5.6,0.219
+100,2018,NBA,1,1,PHO,Deandre Ayton,C,bs,University of Arizona,2019,2019,71,30.7,16.3,10.3,1.8,0.9,0.9,0.585,0.588,0,0.746,5.9,0.13
